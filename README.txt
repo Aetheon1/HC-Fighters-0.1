@@ -1,5 +1,13 @@
 #README
 
+02-26:
+-Switch to Pygame 0
+-32bit sprites
+-512x256 pixel screen (W/H)
+
+
+
+
 Sprites required:
 #Watt's Room
 #Watts
