@@ -2,8 +2,10 @@
 
 02-26:
 -Switch to Pygame 0
--32bit sprites
--512x256 pixel screen (W/H)
+-32bit sprites #deprecated
+-512x256 pixel screen (W/H) #deprecated
+-1920x20180 pixel screen
+-64bit sprites?
 
 
 
